@@ -1,0 +1,40 @@
+{
+    "Hero": {
+        "h1": "Organize Your Bookmarks with One Click",
+        "h2": "With the power of AI, you only need to click once to sort your scattered bookmarks into the corresponding folders."
+    },
+	"Feature": {
+		"h2": "Our Feature",
+		"h3": "Features of inWind Landing Page Template",
+		"description1": "Awesome landing page template.",
+		"description2": "Based on Next.JS, DaisyUI, TailwinCSS and other powerful libary.",
+		"description3": "Completely open source and completely free."
+	},
+	"Pricing": {
+		"h2": "Our Pricing",
+		"h3": "Choose Your Plan",
+		"description": "Select the plan that best fits your needs.",
+		"doYouLike": "你喜欢这个落地页模板吗？",
+		"follow": "关注我的推特。"
+	},
+	"Testimonial": {
+		"h2": "Testimonials",
+		"h3": "Wall of Love",
+		"description1": "If you use this landing page template and recommend it on your Twitter,",
+		"description2": "please let me know",
+		"description3": ",I will display your tweet and recommendation here."
+	},
+	"Faq": {
+		"h2": "FAQ",
+		"h3": "Frequently Asked Questions",
+		"description": "Here are some of the most frequently asked questions."
+	},
+	"CTA": {
+		"h2": "Start Using It for Free Now",
+		"h3": ""
+	},
+	"CTAButton": {
+		"btn1": "Get the Plugin for Free",
+		"btn2": "View Docs"
+	}
+}

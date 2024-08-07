@@ -1,5 +1,5 @@
 module.exports = {
-	siteUrl: 'https://landingpage.huglemon.com',
+	siteUrl: 'https://bookmarkorg.com',
 	generateRobotsTxt: true,
 	sitemapSize: 7000,
 };

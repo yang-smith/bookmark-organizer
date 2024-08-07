@@ -6,6 +6,7 @@ import CustomHead from '@/components/common/head';
 import Navbar from '@/components/common/navbar';
 import Footer from '@/components/common/footer';
 import { ThemeProvider } from '@/context/ThemeContext';
+import { Analytics } from "@vercel/analytics/react"
 
 export const metadata = {
 	title: SiteConfig.name,
@@ -42,6 +43,7 @@ export default async function RootLayout({ children }) {
 					</div>
 				</ThemeProvider>
 			</body>
+			<Analytics/>
 		</html>
 	);
 }

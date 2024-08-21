@@ -29,11 +29,11 @@ export default async function Home({ params }) {
 			<Testimonial
 				locale={dict.Testimonial}
 				langName={langName}
-			/>
+			/> */}
 			<Faq
 				locale={dict.Faq}
 				langName={langName}
-			/> */}
+			/>
 			<Cta
 				locale={dict.CTA}
 				CTALocale={dict.CTAButton}
